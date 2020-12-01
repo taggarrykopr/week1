@@ -2,7 +2,7 @@
   "headers":{
   "/*" :{
   "X-Author" : "tag_garry",
-  "Control-Allow-Origin" : "*"
+  "Access-Control-Allow-Origin" : "*"
   }
   }
 }
